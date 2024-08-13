@@ -1,0 +1,3 @@
+Here is the solution.
+In setting.gradle >dependencyResolutionManagement add this line maven {url "https://jcenter.bintray.com"}
+In gradle.properties Add this line android.enableJetifier=true
